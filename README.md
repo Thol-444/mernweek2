@@ -1,1 +1,3 @@
-# mernweek2
+# Week2-MERN
+<br>
+Author - Nihaarika
